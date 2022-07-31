@@ -39,7 +39,7 @@ dns.google
 
 dns.quad9.net
 
-6. Tiar DNS [Adblocking Dns Supported] (Recommend)
+6. Tiar DNS [Adblocking Dns Supported] (Recommended)
 
 dot.tiar.app or doh.tiar.app
 
